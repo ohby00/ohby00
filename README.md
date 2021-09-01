@@ -4,5 +4,5 @@
 ## I'm Byeonguk Oh ! 
 🐹Stak🐹
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
- 
+ #3776AB
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohby00)](https://github.com/anuraghazra/github-readme-stats)
