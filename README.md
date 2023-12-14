@@ -1,7 +1,5 @@
 <div align="center">
-<h1># OH BYEONG UK 😉#</h1>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+<h1> 😉 OH BYEONG UK 😉 </h1><br>
 
 ![ByeongUk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohby00&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=obw4579)](https://solved.ac/obw4579/)
@@ -24,6 +22,4 @@
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://obwo.tistory.com/)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](quddnr217@naver.com)
-  
 </div>
